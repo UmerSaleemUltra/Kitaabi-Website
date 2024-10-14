@@ -4,7 +4,7 @@ import React from 'react';
 const testimonials = [
   {
     name: "John Doe",
-    feedback: "This bookstore has changed my reading experience. The selection is amazing and the service is top-notch!",
+    feedback: "This Kitaabi has changed my reading experience. The selection is amazing and the service is top-notch!",
     image: "https://randomuser.me/api/portraits/men/1.jpg", // Sample user image
   },
   {

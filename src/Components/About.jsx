@@ -9,10 +9,10 @@ const About = () => {
           About Us
         </h2>
         <p className="text-lg text-gray-700 text-center mb-6">
-          At BookStore, we believe that reading opens up new worlds and enhances the human experience. Our mission is to provide a vast selection of books to inspire readers of all ages and interests.
+          At Kitaabi, we believe that reading opens up new worlds and enhances the human experience. Our mission is to provide a vast selection of books to inspire readers of all ages and interests.
         </p>
         <p className="text-lg text-gray-700 text-center mb-6">
-          Founded in 2024, BookStore started as a small online shop and has grown into a vibrant community of book lovers. We are committed to offering affordable prices, excellent customer service, and a user-friendly shopping experience.
+          Founded in 2024, Kitaabi started as a small online shop and has grown into a vibrant community of book lovers. We are committed to offering affordable prices, excellent customer service, and a user-friendly shopping experience.
         </p>
         <p className="text-lg text-gray-700 text-center mb-6">
           Join us on this journey of discovery, and let’s explore the magic of books together!
